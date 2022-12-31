@@ -1,0 +1,21 @@
+#_______ _________ _______  _______  _______  _______           _______ _________
+#(  ____ \\__   __/(  ___  )(  ____ \(  ____ \(  ____ \|\     /|(  ___  )\__   __/
+#| (    \/   ) (   | (   ) || (    \/| (    \/| (    \/| )   ( || (   ) |   ) (
+#| (_____    | |   | (___) || (__    | (__    | |      | (___) || (___) |   | |
+#(_____  )   | |   |  ___  ||  __)   |  __)   | |      |  ___  ||  ___  |   | |
+#      ) |   | |   | (   ) || (      | (      | |      | (   ) || (   ) |   | |
+#/\____) |   | |   | )   ( || )      | )      | (____/\| )   ( || )   ( |   | |
+#\_______)   )_(   |/     \||/       |/       (_______/|/     \||/     \|   )_(
+
+# Welcome in the config!
+# Placeholders: %player-name%, %prefix%
+# Not all messages support placeholders (e.g. reload message doesn't support %player-name%)
+
+prefix: "&7[&4StaffChat&7] "
+staffchat-format: "%prefix% &c%player%: &f"
+correct-syntax: "&cCorrect Syntax: &6/&cstaffchat &6<message>"
+no-permissions: "&cYou don't have the required permissions to execute this command"
+only-players: "This command is only for players"
+toggle-true: "%prefix% &7StaffChat toggled to &aTRUE"
+toggle-false: "%prefix% &7StaffChat toggled to &cFALSE"
+reload: "%prefix% &7Config succesfully reloaded"

@@ -1,0 +1,13 @@
+name: StaffChat
+version: '1.0'
+main: bananablu.staffchat.StaffChat
+api-version: 1.19
+authors: [ _Banana_Blu_ ]
+description: A simple staffchat plugin.
+commands:
+  staffchat:
+    aliases: [sc]
+  staffchatoggle:
+    aliases: [sctoggle]
+  staffchatreload:
+    aliases: [screload]
